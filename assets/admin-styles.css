@@ -1,0 +1,24 @@
+.blyen-settings-page {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.blyen-settings-page h1 {
+    margin-top: 0;
+}
+
+.blyen-settings-page p.description {
+    margin-bottom: 20px;
+}
+
+.blyen-settings-page a {
+    color: #0073aa;
+    text-decoration: none;
+}
+
+.blyen-settings-page a:hover {
+    text-decoration: underline;
+}
